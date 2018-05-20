@@ -1,6 +1,6 @@
 # Variability
 
-Variability: A ncurses-based frontend for Volatility
+Variability: An ncurses-based frontend for Volatility.
 
 <a href="http://www.desperadosecurity.com/images/variability/ScreenShot1.png"><img src="http://www.desperadosecurity.com/images/variability/ScreenShot1.png" width="75%"></a>
 
