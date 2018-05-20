@@ -18,7 +18,7 @@ Variability: An ncurses-based frontend for Volatility.
 
 ### Other methods 
 * Use a popular memory dumping tool such as [DumpIt](https://blog.comae.io/your-favorite-memory-toolkit-is-back-f97072d33d5c)
-* Specify this dumpfile from the command line
+* Specify this dumpfile from the command line.
 
 To run with an existing memory dump:
 ```
