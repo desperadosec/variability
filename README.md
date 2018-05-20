@@ -12,7 +12,7 @@ Variability: An ncurses-based frontend for Volatility.
 ### From a VirtualBox VM
 * If you are running a malware sample in VirtualBox, you can dump memory from within Variability:
 * Edit config.ini VMNAME field to match the name of your target VM.
-* Press 'd' and wait for the dump to complete (it will be created in the path specified in config.ini).
+* Press 'd' and wait for the dump to complete (it will be created at the path specified in config.ini).
 * Alternately, you can manually run:
 ```VBoxManage debugvm <uuid|vmname> dumpvmcore```
 
