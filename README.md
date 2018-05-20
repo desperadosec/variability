@@ -2,6 +2,8 @@
 
 Variability: A ncurses-based frontend for Volatility
 
+<a href="http://www.desperadosecurity.com/images/variability/ScreenShot1.png"><img src="http://www.desperadosecurity.com/images/variability/ScreenShot1.png"></a>
+
 ### Prerequisites
 * Volatility
 * A full memory dump compatible with Volatility
